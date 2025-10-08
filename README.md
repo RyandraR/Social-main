@@ -1,9 +1,9 @@
-# 🌐 Willy Social
+# 🌐 Ryandra Social
 
-**Willy Social** is a modern social media web app where users can share posts, like, save, and comment.  
+**Ryandra Social** is a modern social media web app where users can share posts, like, save, and comment.  
 Built with **React, TypeScript, and Tailwind CSS**, it focuses on speed, simplicity, and a responsive user experience.
 
-🔗 **Live Demo:** [https://willy-social.vercel.app/](https://willy-social.vercel.app/)
+🔗 **Live Demo:** [https://social-main-coral.vercel.app/](https://social-main-coral.vercel.app/)
 
 ---
 
@@ -37,8 +37,8 @@ Built with **React, TypeScript, and Tailwind CSS**, it focuses on speed, simplic
 
 ```bash
 # 1️⃣ Clone the repository
-git clone https://github.com/willyindra50/willy-social.git
-cd willy-social
+git clone https://github.com/RyandraR/Social-main
+cd social-ryandra-wph021
 
 # 2️⃣ Install dependencies
 npm install
